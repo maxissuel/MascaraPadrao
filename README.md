@@ -15,5 +15,5 @@
 
 # Passo 2
     dependencies {
-    	        implementation 'com.github.maxissuel:MascaraPadrao:1.1'
+    	        implementation 'com.github.maxissuel:MascaraPadrao:1.2'
     	}
